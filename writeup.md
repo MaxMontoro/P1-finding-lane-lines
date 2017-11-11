@@ -39,7 +39,8 @@ In order to draw a single line on each lane line and to reduce the shaky/jittery
 
 ### 2. Potential shortcomings
 
-One shortcoming of the pipeline is that it cannot handle the challeng video, as it contains shadows, large curves of lines and other factors that make it difficult for this simple lane finding algorithm to work. 
+One shortcoming of the pipeline is that it cannot handle the challenge video. It contains shadows, large curves of lines and other factors that make it difficult for this simple lane finding algorithm to work. 
+Naturally this is a naive implemenation of the lane finding algorithm.
 
 ### 3. Possible improvements to the pipeline
 
